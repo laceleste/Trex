@@ -44,18 +44,7 @@ function draw(){
 
 
 
-  if(gameState ===PLAY){
 
-
-
-
-  }
-  else if(gameState === END){
-
-
-
-
-  }
 
 
 
